@@ -1,0 +1,79 @@
+body{
+    
+}
+.logo{
+
+}
+
+.logo h1{
+    background: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+}
+.logo img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+}
+
+.menu{
+
+}
+.menu nav{
+
+}
+.menu nav ul{
+    margin-top: -10px;
+    margin-left: 579px;
+}
+
+.menu nav ul li{
+    display: inline;
+
+}
+.menu nav ul li a{
+    text-decoration: none;
+    padding: 17px;
+    color: white;
+    background: black;
+    font-size: 20px;
+
+}
+
+.menu nav ul li a:hover{
+
+}
+
+.info{
+    margin-left: 689px;
+    margin-top: 50px;
+}
+.info tr{
+
+}
+.info tr td{
+
+}
+
+.hobby{
+    margin-left: 790px;
+}
+
+.favourite{
+    margin-left: 760px;
+}
+
+.cd{
+    margin-left: 732px;
+}
+
+.image{
+    margin-left: 722px;
+}
+
+.footer{
+    margin-left: 730px;
+}
